@@ -1,0 +1,1 @@
+Given files are created for all the possible inputs and their ouputs. Code for these is mixture of my code and some of online fellow developers. With these, I have created these files. Feel free to criticize.
